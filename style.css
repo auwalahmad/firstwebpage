@@ -1,0 +1,60 @@
+h1{
+color:rgb(81, 255, 0);
+font-size: 50px;
+font-family: 'Courier New'; 
+font-weight: bold;
+text-decoration: underline;
+}
+p{
+     color:rgb(91, 165, 42);
+}
+h2{
+    color:rgb(0, 255, 149);
+}
+body{
+    color: rgb(0, 255, 76);
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 16px;
+    font-weight: normal;
+}
+ .header-1{ 
+     background-color:rgb(102, 255, 0);
+     height: 150px;
+     color: aliceblue;
+     width: 80%;
+     margin: auto;
+     border-right: 5px;
+     border-radius: 10px;
+
+
+}
+ 
+   .header-1 table{
+       padding-top: 100px;
+
+   }
+
+
+
+.header-1 a{
+    text-decoration: none;
+    color:beige;
+    font-family:Verdana;
+    padding: 10px;
+    background: darkred;
+}
+
+.header-1 a:hover{
+    background-color: aqua;
+    color: black;
+
+}
+.header-1 a:active{
+    color: brown;
+
+
+}.header-1 a:visited{
+    color: blueviolet;
+}
+
